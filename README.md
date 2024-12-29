@@ -5,7 +5,8 @@
 
 ## Overview
 This dashboard provides a comprehensive analysis of sales data for the organization. It showcases key performance metrics and trends that help identify revenue sources, customer behaviors, and regional sales distribution.
-C:\Users\SWARESH\Pictures\Screenshots\Screenshot 2024-12-29 185114.png
+![Screenshot 2024-12-29 185114](https://github.com/user-attachments/assets/44e9ec0b-74bc-4790-a379-d98a700de856)
+
 ## Project Highlights
 This project involved the following tasks:
 
